@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Presentation Architect v3",
+  "description": "An elite AI-powered presentation suite focusing on pro-active content generation and high-end aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

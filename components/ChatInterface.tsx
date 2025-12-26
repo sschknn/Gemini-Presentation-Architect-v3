@@ -1,0 +1,1 @@
+// Datei gelöscht, da durch Voice-First Interface in App.tsx ersetzt.

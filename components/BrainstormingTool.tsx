@@ -1,0 +1,1 @@
+// Datei gelöscht, da Brainstorming direkt in App.tsx integriert wurde.
